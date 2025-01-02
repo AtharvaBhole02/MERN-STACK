@@ -1,0 +1,21 @@
+.gallery {
+    padding: 30px;
+    background-color: whitesmoke;
+  }
+  .images {
+    display: flex;
+    justify-content: space-between;
+  }
+  .image-box {
+    width: 150px;
+    height: 100px;
+    background-color: #ddd;
+    text-align: center;
+    
+  }
+  .img{
+    width: 100%;
+    
+    
+  }
+  

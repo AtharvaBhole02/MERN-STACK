@@ -1,0 +1,15 @@
+.services {
+    padding: 30px;
+    background-color: whitesmoke;
+    text-align:left;
+    color: black;
+  }
+  .services ul {
+    list-style: none;
+    text-align: left ;
+    padding: 0;
+  }
+  .services li {
+    margin: 10px 0;
+  }
+  
