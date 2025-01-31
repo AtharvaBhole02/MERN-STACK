@@ -1,0 +1,159 @@
+:root {
+   --primary-color     : #ff7e01;
+   --secondary-color   : #faa935;
+   --heading-color     : #0b2727;
+   --text-color        : #6e7074;
+   --font-name         : "Montserrat", sans-serif;
+   --subtitle-font-name: "Island Moments", cursive;
+}
+
+.hero__subtitle img {
+   width : 2.5rem;
+   height: 2.5rem;
+}
+
+.hero__content h1 {
+   font-size    : 2.5rem;
+   font-weight  : 600;
+   margin-top   : 1rem;
+   margin-bottom: 2rem;
+   color        : var(--heading-color);
+}
+
+.hero__content h1 .hightlight {
+   color: var(--secondary-color);
+}
+
+.hero__content p {
+   font-size  : 1rem;
+   color      : var(--text-color);
+   line-height: 1.4rem;
+}
+
+.hero__img-box img,
+.hero__img-box video {
+   width        : 100%;
+   height       : 350px;
+   border-radius: 20px;
+   border       : 1px solid var(--secondary-color);
+   object-fit   : cover;
+}
+
+.hero__content {
+   padding-top: 3.5rem;
+}
+
+.hero__img-box {
+   padding-top: 2rem;
+}
+
+.services__subtitle {
+   font-size  : 2rem;
+   font-weight: 500;
+   color      : #ee6e6e;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.services__title {
+   font-size  : 2rem;
+   font-weight: 500;
+}
+
+
+
+.experience__content h1 {
+   font-size  : 1.5rem;
+   font-weight: 200;
+   margin-top : 1rem;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.experience__content p {
+   font-size : 1.2rem;
+   color     : var(--text-color);
+   margin-top: 1rem;
+}
+
+.counter__wrapper {
+   margin-top: 1.6rem;
+}
+
+.counter__box span {
+   width          : 70px;
+   height         : 70px;
+   margin         : auto;
+   display        : flex;
+   align-items    : center;
+   justify-content: center;
+   background     : red;
+   color          : #fff;
+   font-size      : 1.2rem;
+   font-weight    : 200;
+   border-radius  : 1000px;
+}
+
+.counter__box h6 {
+   font-size : 0.8rem;
+   margin-top: 0.5rem;
+   color     : var(--text-color);
+}
+
+.experience__img img {
+   width: 70%;
+   border-radius: 400px;
+   box-shadow: rgba(249, 0, 0, 0.2) 0px 18px 50px -10px;
+
+}
+
+.gallery__title {
+   font-size    : 2rem;
+   margin-bottom: 2.5rem;
+   margin-top   : 0.8rem;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.testimonial__title {
+   font-size : 2rem;
+   margin-top: 0.8rem;
+}
+
+@media only screen and (max-width:992px) {
+   .hero__content h1 {
+      font-size: 2.5rem;
+   }
+
+   .hero__img-box {
+      display: none;
+   }
+
+   .hero__video-box {
+      display: block;
+   }
+
+   .services__title,
+   .featured__tour-title,
+   .gallery__title,
+   .testimonial__title,
+   .experience__content h2 {
+      font-size: 2rem;
+   }
+
+   .experience__img {
+      margin-top: 2rem;
+   }
+}
+
+@media only screen and (max-width: 576px) {
+   .hero__content h1 {
+      font-size: 1.8rem;
+   }
+
+   .services__title,
+   .featured__tour-title,
+   .gallery__title,
+   .testimonial__title,
+   .experience__content h2 {
+      font-size: 2rem;
+   }
+}

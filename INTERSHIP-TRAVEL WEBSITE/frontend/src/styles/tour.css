@@ -1,0 +1,28 @@
+.pagination span {
+   width          : 2rem;
+   height         : 2rem;
+   padding        : 5px;
+   border-radius  : 1px;
+   display        : flex;
+   align-items    : center;
+   justify-content: center;
+   border         : 1px whitesmoke;
+   color          : red;
+   font-size      : 1rem;
+   cursor         : pointer;
+   font-weight    : 500;
+}
+
+.active__page {
+   background: red;
+   color     : #fff !important;
+}
+
+.common__section{
+   height: 400px;
+   margin-bottom: 80px;
+   box-shadow: rgba(249, 0, 0, 0.2) 0px 18px 50px -10px;
+
+}
+
+

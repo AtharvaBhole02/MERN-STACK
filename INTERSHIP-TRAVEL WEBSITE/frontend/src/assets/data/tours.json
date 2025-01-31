@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Taj Mahal, India",
+    "city": "Agra",
+    "address": "Somewhere in Agra",
+    "distance": 300,
+    "price": 9000,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/taj.jpg",
+    "featured": true
+  },
+  {
+    "title": "Red fort, India",
+    "city": "Delhi",
+    "address": "Somewhere in Delhi",
+    "distance": 400,
+    "price": 8000,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/Red-Fort.jpg",
+    "featured": true
+  },
+  {
+    "title": "Hava Mahal, India",
+    "city": "Jaipur",
+    "address": "Somewhere in Jaipur",
+    "distance": 500,
+    "price": 9900,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/Hava.jpg",
+    "featured": true
+  },
+  {
+    "title": "Golden Temple, India",
+    "city": "Amritsar",
+    "address": "Somewhere in Amristar",
+    "distance": 500,
+    "price": 5999,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/Golden-Temple.jpg",
+    "featured": true
+  },
+  {
+    "title": "India Gate, India",
+    "city": "Mumbai",
+    "address": "Somewhere in Mumbai",
+    "distance": 500,
+    "price": 6999,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/India-Gate.jpg",
+    "featured": true
+  },
+  {
+    "title": "Adiyogi Shiva Statue, India",
+    "city": "Coimbatore",
+    "address": "Somewhere in Coimbatore",
+    "distance": 500,
+    "price": 7999,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/Adiyogi.jpg",
+    "featured": true
+  },
+  {
+    "title": "Qutub Minar, India",
+    "city": "Delhi",
+    "address": "Somewhere in Delhi",
+    "distance": 500,
+    "price": 8000,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/Qutub-Minar.jpeg",
+    "featured": true
+  },
+  {
+    "title": "Mysore Palace, India",
+    "city": "Mysore",
+    "address": "Somewhere in Mysore",
+    "distance": 500,
+    "price": 4000,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/Mysore-Palace.jpg",
+    "featured": true
+  },
+  {
+    "title": "Lotus Temple, India",
+    "city": "Dekhi",
+    "address": "Somewhere in Delhi",
+    "distance": 100,
+    "price": 6000,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/Lotus-Temple.jpeg",
+    "featured": false
+  },
+  {
+    "title": "Chaarminar, India",
+    "city": "Hyderabad",
+    "address": "Somewhere in Hyderabad",
+    "distance": 500,
+    "price": 9000,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/Chaarminar.jpg",
+    "featured": false
+  }
+]
